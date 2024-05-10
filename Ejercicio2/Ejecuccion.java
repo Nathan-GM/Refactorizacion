@@ -1,20 +1,6 @@
 package Ejercicio2;
 
 public class Ejecuccion {
-
-
-/*
- * https://www.auberginesolutions.com/blog/understanding-code-smells-types-refactoring-best-practices/
- * Punto 6, adecuado a este ejercicio
- */
-
- /*
-  * Cosas que actualmente se tienen en cuenta:
-  *     1. La espada permite defenderse.
-  *     2. El escudo tiene en cuenta si permite curarse.
-  *     3. Incrementos y decrementos de poder de espadas y escudos.
-  */
-
     public static void main(String[] args) {
 System.out.println("");
         Warrior w = new Warrior("Nathan");

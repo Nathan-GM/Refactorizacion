@@ -1,6 +1,5 @@
 package Ejercicio2;
 
-//Hacer Sword y Shield abstractas y que las espadas hereden de ellos?
 public class Sword {
     private double swordpower;
     private String swordname;
